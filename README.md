@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Marcos Macedo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmacedoeu&hide=["stars"]&show_icons=true)
+
 <!--
 **mmacedoeu/mmacedoeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
